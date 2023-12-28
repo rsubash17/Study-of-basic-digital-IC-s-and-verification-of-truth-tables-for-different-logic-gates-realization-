@@ -62,6 +62,7 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Subash R
 RegisterNumber:23003821
+```
 module project_3(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -73,6 +74,8 @@ nand (y5,a,b);
 nor(y6,a,b);
 xnor (y7,a,b);
 endmodule
+```
+
 */
 Logic symbol & Truthtable:
 ![image](https://github.com/rsubash17/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147139828/bca4fa83-e47a-42ff-9023-deb8cab576c3)
